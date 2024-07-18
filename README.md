@@ -13,5 +13,11 @@
 ![alt text](<NO CHECKBOX!!.png>)
 ![alt text](<MUST CHECK THIS.png>)
 ![alt text](<adding hashes.png>)
+![alt text](<autopsy pic.png>)
 
 ## Exercise 3 - Hex Editor - Match File Remnants
+### I downloaded WinHex. It was a lot more user-friendly to me than ImHex
+### The hash values are useful to validate the file's integrity
+![alt text](<winhex first sector.png>)
+
+## Exercise 4 - Simple Encryption
